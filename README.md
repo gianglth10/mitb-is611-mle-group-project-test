@@ -1,9 +1,7 @@
 # mitb-is611-mle-group-project-test
 
 
-
 ![Architecture Diagram](./Untitled%20Diagram.drawio.svg)
-
 
 
 ## System Architecture
