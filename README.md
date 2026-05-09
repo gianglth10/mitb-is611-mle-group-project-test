@@ -13,3 +13,8 @@ Monitor["Monitoring"]
 
 DB --> Train --> Registry --> Deploy --> Monitor
 ```
+
+
+
+
+![Architecture Diagram](./diagrams/architecture.drawio.svg)
