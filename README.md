@@ -1,10 +1,11 @@
 # mitb-is611-mle-group-project-test
 
+## System Architecture (drawio)
 
 ![Architecture Diagram](./MLE.drawio.svg)
 
 
-## System Architecture
+## System Architecture (mermaid)
 
 ```mermaid
 flowchart LR
