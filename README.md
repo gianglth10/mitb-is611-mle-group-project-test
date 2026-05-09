@@ -2,8 +2,7 @@
 
 
 
-![Architecture Diagram](./MLE.svg)
-
+![Architecture Diagram](./Untitled%20Diagram.drawio.svg)
 
 
 ## System Architecture
