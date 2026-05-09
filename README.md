@@ -16,6 +16,4 @@ DB --> Train --> Registry --> Deploy --> Monitor
 
 
 
-![Architecture Diagram](./diagrams/architecture.png)
-
-![Architecture Diagram](./diagrams/architecture.drawio.svg)
+![Architecture Diagram](./MLE.svg)
