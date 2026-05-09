@@ -1,6 +1,11 @@
 # mitb-is611-mle-group-project-test
 
 
+
+![Architecture Diagram](./MLE.svg)
+
+
+
 ## System Architecture
 
 ```mermaid
@@ -15,5 +20,3 @@ DB --> Train --> Registry --> Deploy --> Monitor
 ```
 
 
-
-![Architecture Diagram](./MLE.svg)
